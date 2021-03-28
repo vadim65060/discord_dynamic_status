@@ -1,5 +1,5 @@
 {
-  "DISCORD_TOKEN" :"mfa.2YfsMQPXcA6oFCtobb8dUdVK-X1RSXJBLmYTDZSn42dnMSGyIupRRQmne75-UbC1_5pSJ4x9QK30qe6jibM9",
+  "DISCORD_TOKEN" :"your_discord_token",
   "STATUS_TIME": 2,
   "dynamic_status_text": "несколько тестовых слов",
   "dynamic_status_len": 12,
