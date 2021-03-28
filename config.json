@@ -1,0 +1,14 @@
+{
+  "DISCORD_TOKEN" :"mfa.2YfsMQPXcA6oFCtobb8dUdVK-X1RSXJBLmYTDZSn42dnMSGyIupRRQmne75-UbC1_5pSJ4x9QK30qe6jibM9",
+  "STATUS_TIME": 2,
+  "dynamic_status_text": "несколько тестовых слов",
+  "dynamic_status_len": 12,
+  "dynamic_status_emoji": "\uD83D\uDE95",
+  "default_status": "садись прокачу",
+  "default_emoji": "\uD83D\uDE95",
+  "multi_status_text_list": ["Я...","1000-7","ГУЛЬ!!!!!!!!"],
+  "multi_status_emoji_list": ["🕵️", "🧠", "😈"],
+  "show current status": "n",
+  "work mode": 2
+}
+
