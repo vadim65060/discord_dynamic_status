@@ -1,7 +1,7 @@
 # discord_dynamic_status
 automatically changes your discord statust
 
-мне сложно самому переводить на английский, буду признателен если это кто-то сделает за меня)
+maked in Mar 28, 2021
 
 в основе лежит https://github.com/Akkihi/ds-7 <-parent class
 
